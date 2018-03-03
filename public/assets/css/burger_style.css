@@ -1,0 +1,28 @@
+
+
+body {
+  background-color: #f4c242;
+  text-align: center;
+}
+
+.form-control {
+	width: 65%;
+	float: left;
+}
+
+.input-group-btn {
+	width: 100%;
+}
+
+#pic {
+  allign: middle;
+}
+
+.row {
+  padding: 3% 0 3% 0;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: #5da82f;
+}
